@@ -44,3 +44,9 @@ Other templates
 License
 --------
 Copyright (c) 2018 ThemeSINE. <a href="https://www.themesine.com/license/"> Read the License </a>
+![after-modification-home-page](https://user-images.githubusercontent.com/92579647/166673389-9ed4b846-aebc-4fdc-8e25-873314cb3412.png)
+![demo page](https://user-images.githubusercontent.com/92579647/166673426-1933fdd5-a1fb-4400-9bb1-844108a4d3af.png)![home page](https://user-images.githubusercontent.com/92579647/166673455-c04a4722-2487-46c1-8873-de974ddb8190.png)
+![info  page](https://user-images.githubusercontent.com/92579647/166673470-2a409edb-1cb1-4454-82cd-a4b1a9e7957a.png)
+![service-page](https://user-images.githubusercontent.com/92579647/166673478-18c41e7c-d02d-4d88-8a66-7f04af08e042.png)
+
+![home page](https://user-images.githubusercontent.com/92579647/166673537-ac9cab8b-2fa6-4aed-ba8e-c50b864b0cad.png)
